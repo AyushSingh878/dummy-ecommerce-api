@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "A high performance laptop",
+      "price": 999.99
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "A latest model smartphone",
+      "price": 699.99
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "description": "Noise-cancelling over-ear headphones",
+      "price": 199.99
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "description": "A smartwatch with various features",
+      "price": 249.99
+    },
+    {
+      "id": 5,
+      "name": "Keyboard",
+      "description": "Mechanical keyboard with RGB lighting",
+      "price": 89.99
+    },
+    {
+      "id": 6,
+      "name": "Mouse",
+      "description": "Ergonomic gaming mouse",
+      "price": 49.99
+    },
+    {
+      "id": 7,
+      "name": "Monitor",
+      "description": "27-inch 4K monitor",
+      "price": 299.99
+    },
+    {
+      "id": 8,
+      "name": "Webcam",
+      "description": "1080p HD webcam for video calls",
+      "price": 79.99
+    },
+    {
+      "id": 9,
+      "name": "Charger",
+      "description": "Fast charger for smartphones",
+      "price": 19.99
+    },
+    {
+      "id": 10,
+      "name": "Tablet",
+      "description": "10-inch tablet with high resolution display",
+      "price": 399.99
+    }
+  ]
+}
